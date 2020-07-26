@@ -1,2 +1,4 @@
-# loprifi
+LoPriFi
+=======
+
 Lowest Price Finder
